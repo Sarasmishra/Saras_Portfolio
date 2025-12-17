@@ -74,7 +74,7 @@ npm run dev
 ## 🚀 Deployment
 
 The project is deployment-ready and works seamlessly with platforms like:
-- Vercel
+- Vercel - https://saras-portfolio-six.vercel.app/
 - Netlify
 - Render
 
