@@ -67,7 +67,7 @@ export const AboutSection = () => {
               </motion.a>
 
               <motion.a
-  href="/Saras_Mishra_resume.pdf"
+  href="/SarasMishra_resume.pdf"
   download
   onClick={() =>
     toast({
